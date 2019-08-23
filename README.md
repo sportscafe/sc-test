@@ -9,7 +9,7 @@ We have a couple of tasks for you, which will create your own publishing platfor
 Create a Backend server powered by either HAPI or Express to serve your frontend code, in NodeJS.
 This server should also connect to a Database of your choice (MongoDB, Postgresql, Mysql) to save content.
 
- Write the following APIs to complement the above frontend task
+ Write the following APIs to complement the below frontend task
     
  * /all => GET all the articles in paginated way where in infinite scroll more articles will load
  * /article/id => GET article by it's id

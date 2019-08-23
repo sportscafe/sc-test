@@ -36,5 +36,8 @@ Every Article contains the following:
  4. Article_Content
  5. Article_Author
 
+###### Submission
+Please submit the response in form of 2 github repo links, one containing the Backend code and one containing the Frontend Code.
+
 
 Good luck! Do reach out to us if you have any queries!

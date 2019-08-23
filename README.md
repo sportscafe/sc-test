@@ -10,10 +10,11 @@ Create a Backend server powered by either HAPI or Express to serve your frontend
 This server should also connect to a Database of your choice (MongoDB, Postgresql, Mysql) to save content.
 
  Write the following APIs to complement the above frontend task
-   * /all => GET all the articles in paginated way where in infinite scroll more articles will load
-   * /article/id => GET article by it's id
-   * /article/insertOrEdit => POST Add & Edit New article in a single API
-   * /article/id => DELETE to delete an article by ID
+    
+ * /all => GET all the articles in paginated way where in infinite scroll more articles will load
+ * /article/id => GET article by it's id
+ * /article/insertOrEdit => POST Add & Edit New article in a single API
+ * /article/id => DELETE to delete an article by ID
    
  Use of latest technologies like ES6 is highly preferred.
  
